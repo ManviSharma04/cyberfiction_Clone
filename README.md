@@ -62,7 +62,7 @@ CuberFiction-Clone/
 
 
 ## 📌 **1. Clone the repo**
-   git clone https://github.com/YOUR-USERNAME/CuberFiction-Clone.git
+   git clone https://github.com/ManviSharma04/cyberfiction_Clone
    
 ## 📌 **2. Open the project**
    cd CuberFiction-Clone
