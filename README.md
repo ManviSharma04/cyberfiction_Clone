@@ -62,14 +62,14 @@ GSAP + ScrollTrigger CDN (Included in HTML)
     <!-- ScrollTrigger Plugin -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 
-Locomotive Scroll CSS + JS
-<!-- Locomotive CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css" />
+Locomotive Scroll  JS
 
     <!-- Locomotive JS -->
     <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
 
 
+Locomotive Scroll  CSS
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css" />
 
 ## **📁 Project Folder Structure**
 
