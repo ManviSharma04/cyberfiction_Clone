@@ -1,7 +1,8 @@
 # cyberfiction_Clone
 A fully responsive, pixel-perfect clone of the CuberFiction website built using pure HTML, CSS, and JavaScript. This project recreates the UI/UX, animations, layouts, and interactions of the original platform—without using any frameworks.
 
-📌 About the Project
+## 📌 **About the Project**
+
 
 This project is a frontend clone made to understand real-world landing page design and improve core web development skills.
 It includes:
