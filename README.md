@@ -37,7 +37,7 @@ This clone is meant strictly for learning and educational purposes.
 
 
 
-##  **🛠️ Tech Stack **
+##  🛠️ Tech Stack 
 
 | Technology               | Purpose                          |
 | ------------------------ | -------------------------------- |
@@ -49,7 +49,8 @@ This clone is meant strictly for learning and educational purposes.
 
 
 
-## **📦 Libraries & CDN Used **
+
+## 📦 Libraries & CDN Used 
 
 This project uses GSAP and ScrollTrigger for smooth animations and scroll-based effects.
 
