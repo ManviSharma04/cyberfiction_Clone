@@ -59,7 +59,7 @@ GSAP + ScrollTrigger CDN (Included in HTML)
     <!-- GSAP Core -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 
-<!-- ScrollTrigger Plugin -->
+    <!-- ScrollTrigger Plugin -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 
 
