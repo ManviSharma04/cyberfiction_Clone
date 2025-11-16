@@ -20,6 +20,12 @@ Pixel-perfect recreation of the original design
 
 This clone is meant strictly for learning and educational purposes.
 
+<p align="center">
+  <a href="https://manvisharma04.github.io/cyberfiction_Clone/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ManviSharma04/cyberfiction_Clone/main/preview-glow.svg" alt="Live Preview" width="200">
+  </a>
+</p>
+
 
 ## **🎯 Features**
 
