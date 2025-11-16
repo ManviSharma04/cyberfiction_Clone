@@ -29,8 +29,6 @@ This clone is meant strictly for learning and educational purposes.
 
 ✔️ Smooth animations and transitions
 
-✔️ Mobile navigation menu
-
 ✔️ Image & content hover effects
 
 ✔️ Organized folder structure
@@ -47,6 +45,21 @@ This clone is meant strictly for learning and educational purposes.
 | **CSS3**                 | Styling, layout, animations      |
 | **JavaScript (Vanilla)** | UI interaction, toggles, scripts |
 | **Git & GitHub**         | Version control                  |
+
+
+
+
+📦 ## **Libraries & CDN Used **
+
+This project uses GSAP and ScrollTrigger for smooth animations and scroll-based effects.
+
+GSAP + ScrollTrigger CDN (Included in HTML)
+
+    <!-- GSAP Core -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+
+<!-- ScrollTrigger Plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 
 
 
