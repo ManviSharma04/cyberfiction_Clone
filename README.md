@@ -2,7 +2,7 @@
 A fully responsive, pixel-perfect clone of the CuberFiction website built using pure HTML, CSS, and JavaScript. This project recreates the UI/UX, animations, layouts, and interactions of the original platform—without using any frameworks.
 
 
-## 📌 **About the Project**
+##  **About the Project**
 
 
 This project is a frontend clone made to understand real-world landing page design and improve core web development skills.
@@ -21,7 +21,7 @@ Pixel-perfect recreation of the original design
 This clone is meant strictly for learning and educational purposes.
 
 
-## 📌 **🎯 Features**
+## **🎯 Features**
 
 ✔️ Modern UI/UX
 
@@ -39,7 +39,7 @@ This clone is meant strictly for learning and educational purposes.
 
 
 
-## 📌 ** 🛠️ Tech Stack **
+## ** 🛠️ Tech Stack **
 
 | Technology               | Purpose                          |
 | ------------------------ | -------------------------------- |
@@ -50,7 +50,7 @@ This clone is meant strictly for learning and educational purposes.
 
 
 
-## 📌 **📁 Project Folder Structure**
+## **📁 Project Folder Structure**
 
 CuberFiction-Clone/
 │── index.html
@@ -61,20 +61,20 @@ CuberFiction-Clone/
 └── README.md
 
 
-## 📌 **1. Clone the repo**
-   git clone https://github.com/ManviSharma04/cyberfiction_Clone
+## **1. Clone the repo**
+    git clone https://github.com/ManviSharma04/cyberfiction_Clone
    
-## 📌 **2. Open the project**
-   cd CuberFiction-Clone
+## **2. Open the project**
+    cd CuberFiction-Clone
 
-## 📌 **3. Run the website**
+## **3. Run the website**
     Open index.html directly in your browser
     or
     use VS Code → Right-click → Open with Live Server
 
 
 
-## 📌 **📘 What I Learned**
+##  **📘 What I Learned**
 
 Responsive design with Flexbox + Grid
 
@@ -89,7 +89,7 @@ Mobile-first design
 JavaScript for dynamic UI and events
 
 
-## 📌 **🚧 Future Enhancements**
+##  **🚧 Future Enhancements**
 
 Add multi-page navigation
 
@@ -100,14 +100,14 @@ Add content animations on scroll
 Improve mobile-responsive spacing
 
 
-## 📌 **📝 License**
+##  **📝 License**
 
 This project is for educational purposes only.
 All design rights belong to CuberFiction.
 This is a non-commercial UI clone for learning.
 
 
-## 📌 **⭐ Show Support**
+##  **⭐ Show Support**
 
 If you like this project, consider giving it a ⭐ star on GitHub!
 
