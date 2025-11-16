@@ -1,5 +1,10 @@
 # cyberfiction_Clone
 A fully responsive, pixel-perfect clone of the CuberFiction website built using pure HTML, CSS, and JavaScript. This project recreates the UI/UX, animations, layouts, and interactions of the original platform—without using any frameworks.
+<p align="center">
+  <a href="https://manvisharma04.github.io/cyberfiction_Clone/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Live%20Preview-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 ##  **About the Project**
@@ -20,11 +25,6 @@ Pixel-perfect recreation of the original design
 
 This clone is meant strictly for learning and educational purposes.
 
-<p align="center">
-  <a href="https://manvisharma04.github.io/cyberfiction_Clone/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ManviSharma04/cyberfiction_Clone/main/preview-glow.svg" alt="Live Preview" width="200">
-  </a>
-</p>
 
 
 ## **🎯 Features**
