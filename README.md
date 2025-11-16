@@ -52,7 +52,7 @@ This clone is meant strictly for learning and educational purposes.
 
 ## 📦 Libraries & CDN Used 
 
-This project uses GSAP and ScrollTrigger for smooth animations and scroll-based effects.
+This project uses GSAP , ScrollTrigger and locomotive for smooth animations and scroll-based effects.
 
 GSAP + ScrollTrigger CDN (Included in HTML)
 
@@ -61,6 +61,13 @@ GSAP + ScrollTrigger CDN (Included in HTML)
 
     <!-- ScrollTrigger Plugin -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+Locomotive Scroll CSS + JS
+    <!-- Locomotive CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css" />
+
+    <!-- Locomotive JS -->
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
 
 
 
