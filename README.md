@@ -69,7 +69,7 @@ Locomotive Scroll  JS
 
 
 Locomotive Scroll  CSS
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.css" />
 
 ## **📁 Project Folder Structure**
 
