@@ -66,13 +66,13 @@ GSAP + ScrollTrigger CDN (Included in HTML)
 
 ## **📁 Project Folder Structure**
 
-CuberFiction-Clone/
-│── index.html
-│── style.css
-│── script.js
-├── images
-|
-└── README.md
+    CuberFiction-Clone/
+    │── index.html
+    │── style.css
+    │── script.js
+    ├── images/
+    └── README.md
+
 
 
 ## **1. Clone the repo**
